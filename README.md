@@ -40,9 +40,9 @@
 | Frontend | React 18 |
 | Build Tool | Vite 5 |
 | Routing | Hash-based client router |
-| Styling | Vanilla CSS — CSS variables, glassmorphism |
+| Styling | CSS |
 | State / Persistence | React `useState` + `localStorage` |
-| Backend (optional) | [MockAPI.io](https://mockapi.io) REST API |
+| Backend (optional) | [MockAPI.io](https://mockapi.io) |
 | Email (optional) | [EmailJS](https://emailjs.com) |
 | Font | Inter via Google Fonts |
 
@@ -143,7 +143,6 @@ VITE_CONTACT_EMAIL=you@example.com
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173)
 
 ### 5. (Optional) Seed MockAPI with demo jobs
 
